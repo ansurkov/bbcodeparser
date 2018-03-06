@@ -1,17 +1,10 @@
 {
-    "name": "golonka/bbcodeparser",
+    "name": "ansurkov/bbcodeparser",
     "description": "Parse your BBCode easy with this library.",
     "keywords": ["bbcode", "parser", "laravel"],
-    "homepage": "http://github.com/golonka/bbcodeparser",
+    "homepage": "http://github.com/ansurkov/bbcodeparser",
     "type": "library",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Joseph Landberg",
-            "email": "joseph.landberg@gt5.se",
-            "homepage": "http://gt5.se"
-        }
-    ],
     "require": {
         "php": ">=5.3.0"
     },
